@@ -103,4 +103,4 @@ random-number/
 2. **Факт о любимом числе**: Выберите "Math", "Выбрать число" и введите число
 3. **Исторические события**: Выберите "Date" и введите месяц/день
 
-[Видео приложения](https://www.awesomescreenshot.com/video/42461143?key=f0e35d07d46336ab9f1061c27b35cfd0)
+[Здесь можно посмотреть на приложение](https://www.awesomescreenshot.com/video/42461143?key=f0e35d07d46336ab9f1061c27b35cfd0)
